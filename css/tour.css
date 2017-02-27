@@ -1,0 +1,82 @@
+body{
+	margin: 0;
+	padding: 10px 0;
+	background-color: #333;
+}
+#content{
+	background-image: url(../images/tour.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	width: 1170px;
+	height: 4173px;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+	background-color: #000;
+}
+#restaurant{
+	background-image: url(../images/restoran.jpg);
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	width: 1170px;
+	height: 4000px;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+	background-color: #000;	
+}
+#dental{
+	background-image: url(../images/5.jpg);
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	width: 1170px;
+	height: 5089px;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+	background-color: #000;	
+}
+#werety{
+	background-image: url(../images/werety_bg.jpg);
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	width: 1170px;
+	height: 2849px;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+	background-color: #000;	
+}
+#story{
+	background-image: url(../images/portfolio/story.jpg);
+	width: 1170px;
+	height: 2849px;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+	background-color: #000;	
+}
+#shoptwo{
+	background-image: url(../images/shop-mod.jpg);
+	width: 1170px;
+	height: 2131px;
+	background-repeat: no-repeat;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	margin: 0 auto;
+	background-color: #000;		
+}
+.close{
+	font-size: 40px;
+	position: fixed;
+    margin-left: 1173px;
+	font-family: "RobotoLight";
+	color: aliceblue;
+	cursor: pointer;
+	text-decoration: none
+}
+@media (min-width: 1350px){
+	.close{
+		margin-left: 1199px;
+	}
+}
+@media (min-width: 1900px){
+	.close{
+		margin-left: 1220px;
+	}
+}

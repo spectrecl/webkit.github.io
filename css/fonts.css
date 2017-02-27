@@ -1,0 +1,64 @@
+   @font-face {
+    font-family: "RobotoLight"; /* Имя шрифта */
+    src: url(../fonts/RobotoLight.ttf); /* Путь к файлу со шрифтом */
+   }
+    @font-face {
+    font-family: "RobotoBlack"; /* Имя шрифта */
+    src: url(../fonts/RobotoBlack.ttf); /* Путь к файлу со шрифтом */
+   }
+   @font-face {
+    font-family: "RobotoCondensedBold"; /* Имя шрифта */
+    src: url(../fonts/RobotoCondensedBold.ttf); /* Путь к файлу со шрифтом */
+   }
+   @font-face {
+    font-family: "RobotoRegular"; /* Имя шрифта */
+    src: url(../fonts/RobotoRegular.ttf); /* Путь к файлу со шрифтом */
+   }
+   @font-face {
+    font-family: "UbuntuBold"; /* Имя шрифта */
+    src: url(../fonts/UbuntuBold.ttf); /* Путь к файлу со шрифтом */
+   }
+   @font-face {
+    font-family: "UbuntuL"; /* Имя шрифта */
+    src: url(../fonts/UbuntuL.ttf); /* Путь к файлу со шрифтом */
+   }
+     @font-face {
+    font-family: "UbuntuR"; /* Имя шрифта */
+    src: url(../fonts/UbuntuR.ttf); /* Путь к файлу со шрифтом */
+   }
+     @font-face {
+    font-family: "UbuntuC"; /* Имя шрифта */
+    src: url(../fonts/UbuntuC.ttf); /* Путь к файлу со шрифтом */
+   }
+   @font-face {
+    font-family: "UbuntuMedium"; /* Имя шрифта */
+    src: url(../fonts/UbuntuMedium.ttf); /* Путь к файлу со шрифтом */
+   }
+   @font-face {
+    font-family: "RalewayHeavy"; /* Имя шрифта */
+    src: url(../fonts/RalewayHeavy.ttf); /* Путь к файлу со шрифтом */
+   }
+   @font-face {
+    font-family: "RalewayThin"; /* Имя шрифта */
+    src: url(../fonts/RalewayThin.ttf); /* Путь к файлу со шрифтом */
+   }
+   @font-face {
+    font-family: "RobotoThin"; /* Имя шрифта */
+    src: url(../fonts/RobotoThin.ttf); /* Путь к файлу со шрифтом */
+   }
+   @font-face {
+    font-family: "RalewayExtraLight"; /* Имя шрифта */
+    src: url(../fonts/RalewayExtraLight.ttf); /* Путь к файлу со шрифтом */
+   }
+ @font-face {
+    font-family: "UbuntuLI"; /* Имя шрифта */
+    src: url(../fonts/UbuntuLI.ttf); /* Путь к файлу со шрифтом */
+   }
+@font-face {
+    font-family: "UbuntuMI"; /* Имя шрифта */
+    src: url(../fonts/UbuntuMI.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: "UbuntuRI"; /* Имя шрифта */
+    src: url(../fonts/UbuntuRI.ttf); /* Путь к файлу со шрифтом */
+}
